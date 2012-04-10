@@ -1,0 +1,7 @@
+This is a web scraper.
+
+It takes a range of IPs and then scrapes the site's title, IP, and mailto tags.
+
+It was made to find all of the sites running on AWS. The current code is for the European Union.
+
+It is usually run in conjunction with a nohup command.
